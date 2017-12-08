@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tutki</string>
+
+    <string name="main_passo_a_passo">1. Inicie o Scan.\n\n
+                                        2. Aponte a câmera do celular para o código de barras.\n\n
+                                        3. Aguarde o término da leitura.</string>
+
+
+</resources>
